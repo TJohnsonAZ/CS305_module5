@@ -5,6 +5,9 @@ Trash city is an endless, wave-based shooter game where you play as a fish that 
 ## Ari Jaramillo's Contribution
 I will be focused on maintaining the website where people will be able to get a copy of Trash City. This is a simple task I will doing by using Github websites.
 
+## Nathan Underwood's Contribution
+I will be adding a more detailed manual with all necessary rules and instruction for the game.
+
 ## Contributing
 See [CONTRIBUTING.md](https://github.com/TJohnsonAZ/CS305_module5/blob/main/CONTRIBUTING) for information on contributers to this project.
 ## Liscense
